@@ -1,0 +1,14 @@
+{
+  "name": "drupal/ticket",
+  "type": "drupal-module",
+  "description": "My",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/ticket",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/ticket",
+    "source": "http://cgit.drupalcode.org/ticket"
+  },
+  "require": { }
+}

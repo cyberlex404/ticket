@@ -1,0 +1,13 @@
+# Ticket menu items definition
+entity.ticket.collection:
+  title: 'Ticket list'
+  route_name: entity.ticket.collection
+  description: 'List Ticket entities'
+  parent: system.admin_structure
+  weight: 100
+
+ticket.admin.structure.settings:
+  title: Ticket settings
+  description: 'Configure Ticket entities'
+  route_name: ticket.settings
+  parent: system.admin_structure
